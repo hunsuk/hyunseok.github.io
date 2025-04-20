@@ -1,0 +1,9 @@
+---
+title: "범주론 입문: 객체와 사상"
+categories: [수학, 범주론]
+tags: [category theory, object, morphism]
+math: true
+---
+
+범주론(Category Theory)은 수학적 구조의 변환을 다루는 메타 이론이다.  
+이 글에서는 **객체(object)** 와 **사상(morphism)** 개념을 소개한다.
